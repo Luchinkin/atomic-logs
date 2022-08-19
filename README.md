@@ -1,4 +1,3 @@
-atomic-logs
 # Atomic logs
 
 Logs built on top of atomic buffers without spinlocks by using 8 byte atomic operations.
